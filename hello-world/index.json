@@ -1,6 +1,6 @@
 {
   "title": "Setup - Cluster on Cloud",
-  "description": "Your First Scenario",
+  "description": "Learn how to launch a Kubernetes cluster in GKE using GUI",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
