@@ -9,18 +9,6 @@
         "title": "Introduction",
         "text": "step1.md"
       },
-      {
-        "title": "Preparing the Environment",
-        "text": "step2.md"
-      },
-      {
-        "title": "Deploying stateful Siddhi App",
-        "text": "step3.md"
-      },
-      {
-        "title": "Testing the Siddhi App",
-        "text": "step4.md"
-      }
     ],
     "intro": {
       "text": "intro.md",
