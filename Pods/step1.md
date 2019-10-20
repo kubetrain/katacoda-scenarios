@@ -1,1 +1,1 @@
-kubectl get pods{{execute}}
+kubectl get pods {{execute}}
