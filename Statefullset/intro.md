@@ -1,1 +1,1 @@
-Welcome to the stateful Siddhi App deployment scenario!
+Welcome to the Creation of Pods scenario!
