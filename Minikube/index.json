@@ -6,7 +6,15 @@
       {
         "title": "Step 1",
         "text": "step1.md"
-      }
+      },
+       {
+        "title": "Step 2 - Checking Version",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Checking Node status",
+        "text": "step3.md"
+      },
     ],
     "finish": {
       "text": "finish.md"
