@@ -1,6 +1,6 @@
 {
-  "title": "Minikube",
-  "description": "Use Minikube to help explain Kubernetes",
+  "title": "Starting Minikube",
+  "description": "Starting Minikube with single Node Kubernetes Cluster",
   "details": {
     "steps": [
       {
