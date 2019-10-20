@@ -1,21 +1,26 @@
 {
-  "title": "Minikube",
-  "description": "Use Minikube to help explain Kubernetes",
+  "title": "Creating Your First Katacoda Scenario",
+  "description": "Learn how to create your first Katacoda scenario",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - Scenario Structure",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Checking Version",
+        "title": "Step 2 - Scenario Syntax",
         "text": "step2.md"
       },
       {
-        "title": "Step 3 - Checking Node status",
+        "title": "Step 3 - CLI",
         "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - VS Code Extension",
+        "text": "step4.md"
       }
     ],
+    
     "finish": {
       "text": "finish.md"
     }
