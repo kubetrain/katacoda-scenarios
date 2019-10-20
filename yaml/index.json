@@ -12,22 +12,6 @@
     {
       "title": "Run your container in a Kubernetes pod",
       "text": "step2.md"
-    },
-    {
-      "title": "Kubernetes logs",
-      "text": "step3.md"
-    },
-    {
-      "title": "Kubernetes deployments",
-      "text": "step4.md"
-    },
-    {
-      "title": "Kubernetes services",
-      "text": "step5.md"
-    },
-    {
-      "title": "Scaling the number of replicas",
-      "text": "step6.md"
     }],
     "intro": {
       "text": "intro.md",
