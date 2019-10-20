@@ -1,12 +1,2 @@
-Start using the Multi-node Kubernetes environment for your content by setting the `imageid` to `kubernetes-cluster`.
-
-For example:
-
-<pre class="file">
-"environment": {
-  "uilayout": "terminal"
-},
-"backend": {
-  "imageid": "kubernetes-cluster"
-}
-</pre>
+Now you have created a multi node Kubernetes Cluster successfully.
+Stay tuned for more upcoming Scenarios with kubTrain.
