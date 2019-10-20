@@ -1,5 +1,5 @@
 {
-  "title": "Kubernetes",
+  "title": "Creating Multi Node Kubernetes Cluster",
   "description": "Multi node Kubernetes cluster configured using Kubeadm",
   "details": {
     "steps": [
