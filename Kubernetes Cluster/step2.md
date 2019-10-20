@@ -3,11 +3,11 @@ Follow the instructions that given in the Master Node
 
 To start using your cluster, you need to run the following as a regular user:
 
-    `mkdir -p $HOME/.kube`{{execute HOST1}}
+1.`mkdir -p $HOME/.kube`{{execute HOST1}}
    
-    `sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config`{{execute HOST1}}
+2.`sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config`{{execute HOST1}}
   
-    `sudo chown $(id -u):$(id -g) $HOME/.kube/config`{{execute HOST1}}
+3.`sudo chown $(id -u):$(id -g) $HOME/.kube/config`{{execute HOST1}}
   
   Then you can join any number of worker nodes by running the following on each as root:
 
