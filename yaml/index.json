@@ -46,10 +46,6 @@
     "imageid": "kubernetes"
   },
   "files": [
-    "hello.go",
-    "Dockerfile",
     "pod.yaml",
-    "deployment.yaml",
-    "service.yaml"
   ]
 }
