@@ -1,12 +1,12 @@
 {
   "title": "Creation of Pods",
-  "description": "Lets Create Manage and Deploy Pods the smallest deployment unit in Kubernetes.",
+  "description": "Introduction to Pods the smallest deployment unit in Kubernetes.",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
     "steps": [
       {
-        "title": "Introduction",
+        "title": "Welcome!/n Pods",
         "text": "step1.md"
       },
       {
