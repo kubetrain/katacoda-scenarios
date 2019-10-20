@@ -37,6 +37,5 @@
   },
   "backend": {
     "imageid": "minikube"
-    "imageid": "nginx"
   }
 }
