@@ -1,6 +1,6 @@
 {
   "title": "Creation of Pods",
-  "description": "Deploy Pod the basic building block on Kubernetes.",
+  "description": "Lets Create Manage and Deploy Pods the smallest deployment unit in Kubernetes.",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
@@ -10,15 +10,15 @@
         "text": "step1.md"
       },
       {
-        "title": "Preparing the Environment",
+        "title": "b",
         "text": "step2.md"
       },
       {
-        "title": "Deploying stateful Siddhi App",
+        "title": "c",
         "text": "step3.md"
       },
       {
-        "title": "Testing the Siddhi App",
+        "title": "d",
         "text": "step4.md"
       }
     ],
