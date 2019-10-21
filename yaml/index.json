@@ -1,4 +1,4 @@
-{
+,{
   "pathwayTitle": "An Intro to Containers for Go Programmers",
   "title": "Kubernetes basics",
   "description": "In this scenario you'll see how to run your containerized Go app under Kubernetes",
