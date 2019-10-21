@@ -2,7 +2,7 @@ You have an image, and soon you're going to run that image as a pod in Kubernete
 
 ## Interacting with Kubernetes
 
-There is a command line tool `kubectl` for interacting with Kubernetes. You can install a copy of `kubectl` on your laptop, and with the right credentials and configuration information (and network connectivity), it can interact with a Kubernetes cluster wherever it's running.
+Thee is a command line tool `kubectl` for interacting with Kubernetes. You can install a copy of `kubectl` on your laptop, and with the right credentials and configuration information (and network connectivity), it can interact with a Kubernetes cluster wherever it's running.
 
 In this Katacoda scenario there is a single-node Kubernetes cluster running already. You can use `kubectl` to see the Kubernetes node that's running in your Katacoda environment.
 
