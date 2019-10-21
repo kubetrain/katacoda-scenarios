@@ -11,7 +11,7 @@ metadata:
   name: po-kubetrain
 spec:
   containers:
-  - name: ctr-http-kubetrain
+  - name: ctr-kubetrain
     image: httpd
 </pre>
 `kubectl get pods`{{execute}}
