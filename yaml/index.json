@@ -45,11 +45,8 @@
   "backend": {
     "imageid": "kubernetes"
   },
-  "files": [
-    "hello.go",
+  "files": [    
     "Dockerfile",
     "pod.yaml",
-    "deployment.yaml",
-    "service.yaml"
   ]
 }
